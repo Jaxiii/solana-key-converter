@@ -128,7 +128,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ).then((_) {
                 ScaffoldMessenger.of(context).showSnackBar(
                   const SnackBar(
-                    content: Text("Bytes copied to clipboard"),
+                    content: Text("Bytes list copied to clipboard"),
                   ),
                 );
               }),
