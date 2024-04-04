@@ -69,7 +69,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color.fromRGBO(11, 14, 23, 1),
+      backgroundColor: const Color.fromRGBO(11, 14, 22, 1),
       appBar: AppBar(
         backgroundColor: const Color.fromRGBO(36, 40, 62, 1),
         title: Text(
