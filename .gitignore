@@ -28,7 +28,9 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-
+build/ca8e94eab10554525926bf6017fe1d52
+build/flutter_assets/
+build/f4da31578bf74e160393d588ebd02ee2.cache.dill.track.dill
 # Symbolication related
 app.*.symbols
 
